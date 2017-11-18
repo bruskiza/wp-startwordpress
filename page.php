@@ -1,4 +1,4 @@
-<!-- theme: page start -->
+<!-- theme: Page start -->
 <?php get_header(); ?>
 
 	<div class="row">
@@ -16,4 +16,4 @@
 	</div> <!-- /.row -->
 
 <?php get_footer(); ?>
-<!-- theme: page end -->
+<!-- theme: Page end -->
